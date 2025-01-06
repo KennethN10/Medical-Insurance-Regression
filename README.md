@@ -44,7 +44,7 @@ The primary goal of this project is to explore the relationships between various
 
 ## Dataset Description
 
-- **Source**: [Include dataset source if applicable]
+- **Source**: https://www.kaggle.com/datasets/rahulvyasm/medical-insurance-cost-prediction/data
 - **Size**: 2,700 observations with variables such as:
   - Age
   - BMI
