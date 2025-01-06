@@ -83,8 +83,8 @@ The primary goal of this project is to explore the relationships between various
    git clone https://github.com/your-username/medical-insurance-regression.git
 2. Open the project in RStudio.
 3. Load the dataset by placing it in the project directory and running:
-    ```bash
+    ```r
     data <- read.csv("insurance.csv")
 4. Run the analysis script to generate visualizations and model outputs:
-   ```bash
+   ```r
    source("analysis_script.R")
