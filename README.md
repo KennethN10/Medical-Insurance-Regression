@@ -75,16 +75,3 @@ The primary goal of this project is to explore the relationships between various
 - **Age**: Older individuals tended to have higher insurance charges, indicating a strong age-cost relationship.
 
 ---
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/medical-insurance-regression.git
-2. Open the project in RStudio.
-3. Load the dataset by placing it in the project directory and running:
-   ```r
-    data <- read.csv("insurance.csv")
-4. Run the analysis script to generate visualizations and model outputs:
-   ```r
-   source("analysis_script.R")
